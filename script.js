@@ -1,16 +1,16 @@
 const images = [
-    '/img/image1.jpg',
-    '/img/image2.jpg',
-    '/img/image3.jpg',
-    '/img/image4.png',
-    '/img/image5.jpg',
-    '/img/image6.jpg',
-    '/img/image7.jpg',
-    '/img/image8.jpg',
-    '/img/image9.jpg',
-    '/img/image10.png',
-    '/img/image11.jpg',
-    '/img/image12.jpg'
+    '../img/image1.jpg',
+    '../img/image2.jpg',
+    '../img/image3.jpg',
+    '../img/image4.png',
+    '../img/image5.jpg',
+    '../img/image6.jpg',
+    '../img/image7.jpg',
+    '../img/image8.jpg',
+    '../img/image9.jpg',
+    '../img/image10.png',
+    '../img/image11.jpg',
+    '../img/image12.jpg'
 ];
 
 function isValidImage(extension) {
